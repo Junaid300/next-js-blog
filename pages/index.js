@@ -11,7 +11,7 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          Lear <Link href="/posts/first-post">Next.js!</Link>
+          Lear <Link href="/posts/first-postyar">Next.js!</Link>
         </h1>
 
         <p className="description">
